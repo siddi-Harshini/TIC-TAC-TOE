@@ -3,7 +3,7 @@
 A **console-based** Tic-Tac-Toe game built in **C** for two players.
 
 ## 📽️ Project Demo  
-🔗 [Watch the Demo](https://youtu.be/dEJjD1Lm2sI?si=ESVAhWxXLf_Yy5Id)  
+🔗 [Watch the Demo](https://youtu.be/S1DxlSLdjFA)  
 
 ## 📝 Overview  
 This project is a **terminal-based Tic-Tac-Toe game**, showcasing fundamental **C programming concepts** such as:  
